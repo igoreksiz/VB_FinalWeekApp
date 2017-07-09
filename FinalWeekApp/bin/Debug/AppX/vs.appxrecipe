@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-DUJLED9C</Machine>
+    <WindowsUser>LisaKilker</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>69ABAFB624D73212710F74699A9D85DA6F9504AF1700CB7D858C8A352E65059E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2943394a-4d30-45f3-a227-13259e6896c9_1.0.0.0_neutral__vv6985kg8v64r</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2943394a-4d30-45f3-a227-13259e6896c9_vv6985kg8v64r!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2943394a-4d30-45f3-a227-13259e6896c9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=LisaKilker</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\lisakilker\documents\visual studio 2012\Projects\FinalWeekApp\FinalWeekApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-21T00:27:14.366</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\lisakilker\documents\visual studio 2012\Projects\FinalWeekApp\FinalWeekApp\bin\Debug\FinalWeekApp.exe">
+      <PackagePath>FinalWeekApp.exe</PackagePath>
+      <Modified>2017-03-21T01:28:21.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lisakilker\documents\visual studio 2012\Projects\FinalWeekApp\FinalWeekApp\bin\Debug\FinalWeekApp.pdb">
+      <PackagePath>FinalWeekApp.pdb</PackagePath>
+      <Modified>2017-03-21T01:28:21.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lisakilker\documents\visual studio 2012\Projects\FinalWeekApp\FinalWeekApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lisakilker\documents\visual studio 2012\Projects\FinalWeekApp\FinalWeekApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lisakilker\documents\visual studio 2012\Projects\FinalWeekApp\FinalWeekApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lisakilker\documents\visual studio 2012\Projects\FinalWeekApp\FinalWeekApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-03-21T00:26:21.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lisakilker\documents\visual studio 2012\Projects\FinalWeekApp\FinalWeekApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lisakilker\documents\visual studio 2012\Projects\FinalWeekApp\FinalWeekApp\Assets\Tip.png">
+      <PackagePath>Assets\Tip.png</PackagePath>
+      <Modified>2017-03-21T00:15:56.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lisakilker\documents\visual studio 2012\Projects\FinalWeekApp\FinalWeekApp\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2017-03-21T00:11:25.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lisakilker\documents\visual studio 2012\Projects\FinalWeekApp\FinalWeekApp\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T15:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lisakilker\documents\visual studio 2012\Projects\FinalWeekApp\FinalWeekApp\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2017-03-21T01:26:44.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\lisakilker\documents\visual studio 2012\Projects\FinalWeekApp\FinalWeekApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2017-03-21T00:27:14.186</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
